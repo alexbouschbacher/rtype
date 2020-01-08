@@ -1,0 +1,4 @@
+/home/alexbouschbacher/TEK/TEK3/Projects Year/CPP/CPP_rtype_2019/build/CMakeFiles/edit_cache.dir
+/home/alexbouschbacher/TEK/TEK3/Projects Year/CPP/CPP_rtype_2019/build/CMakeFiles/r-type_server.dir
+/home/alexbouschbacher/TEK/TEK3/Projects Year/CPP/CPP_rtype_2019/build/CMakeFiles/rebuild_cache.dir
+/home/alexbouschbacher/TEK/TEK3/Projects Year/CPP/CPP_rtype_2019/build/CMakeFiles/r-type_client.dir
